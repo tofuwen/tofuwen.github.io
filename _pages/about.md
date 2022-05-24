@@ -16,16 +16,16 @@ My current research interests are Machine Learning, Causality and Recommendation
 
 Preprints and Publications
 ======
-- [Calibration Matters: Tackling Maximization Bias in Large-scale Advertising Recommendation Systems](https://arxiv.org/abs/2205.09809)
-**Yewen Fan\***, Nian Si\*, Kun Zhang
+- [Calibration Matters: Tackling Maximization Bias in Large-scale Advertising Recommendation Systems](https://arxiv.org/abs/2205.09809)  
+**Yewen Fan\***, Nian Si\*, Kun Zhang  
 Arxiv, 2022
 
 Education
 ======
-- 2021.9 - Present, Carnegie Mellon University
+- 2021.9 - Present, Carnegie Mellon University  
 Ph.D. in Machine Learning
-- 2015.1 - 2017.5, University of Illinois at Urbana-Champaign
+- 2015.1 - 2017.5, University of Illinois at Urbana-Champaign  
 B.S. in Computer Science and Mathematics 
-- 2013.9 - 2015.1, Beijing Jioatong University
+- 2013.9 - 2015.1, Beijing Jioatong University  
 Transferred to University of Illinois at Urbana-Champaign
 
