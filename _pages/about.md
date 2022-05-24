@@ -22,10 +22,10 @@ Arxiv, 2022
 
 Education
 ======
-- 2021.9 - Present, Carnegie Mellon University  
+- 2021.9 - Present, **Carnegie Mellon University**  
 Ph.D. in Machine Learning
-- 2015.1 - 2017.5, University of Illinois at Urbana-Champaign  
-B.S. in Computer Science and Mathematics 
-- 2013.9 - 2015.1, Beijing Jioatong University  
+- 2015.1 - 2017.5, **University of Illinois at Urbana-Champaign**  
+B.S. in Computer Science and Mathematics
+- 2013.9 - 2015.1, **Beijing Jiaotong University**  
 Transferred to University of Illinois at Urbana-Champaign
 
