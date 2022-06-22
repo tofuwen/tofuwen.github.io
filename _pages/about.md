@@ -12,7 +12,7 @@ I am a first-year Ph.D. student in the [Machine Learning Department](https://www
 
 Research Interests
 ======
-My current research interests are Machine Learning, Causality and Recommendation Systems. In particular, I am interested in designing principled algorithms using mathematical insights to solve real-world problems.
+My current research interests are Machine Learning, Out-of-Distribution Generalization, Causality and Recommendation Systems. In particular, I am interested in designing principled algorithms using mathematical insights to solve real-world problems.
 
 Preprints and Publications
 ======
