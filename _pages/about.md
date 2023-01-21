@@ -20,7 +20,11 @@ Preprints and Publications
 
 - [Calibration Matters: Tackling Maximization Bias in Large-scale Advertising Recommendation Systems](https://arxiv.org/abs/2205.09809)  
 **Yewen Fan\***, Nian Si\*, Kun Zhang  
-Arxiv, 2022
+**ICLR 2023**
+
+- Scalable Estimation of Nonparametric Markov Networks with Mixed-Type Data 
+Yujia Zheng, Ignavier Ng, **Yewen Fan**, Kun Zhang
+**ICLR 2023**
 
 Education
 ======
