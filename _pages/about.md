@@ -26,18 +26,18 @@ Preprints and Publications
 - [Scalable Estimation of Nonparametric Markov Networks with Mixed-Type Data](https://openreview.net/forum?id=qBvBycTqVJ)  
 Yujia Zheng, Ignavier Ng, **Yewen Fan**, Kun Zhang  
 *International Conference on Learning Representations (ICLR), 2023*  
-[OpenReview](https://openreview.net/forum?id=wzlWiO_WY4)
+[OpenReview](https://openreview.net/forum?id=qBvBycTqVJ)
 
 Education
 ======
 - 2021.9 - Present, **Carnegie Mellon University**  
 Ph.D. in Machine Learning
 - 2015.1 - 2017.5, **University of Illinois at Urbana-Champaign**  
-B.S. in Computer Science and Mathematics
+B.S. in Computer Science and B.S. in Mathematics
 - 2013.9 - 2015.1, **Beijing Jiaotong University**  
 Transferred to University of Illinois at Urbana-Champaign
 
-Experience
+Industry Experiences
 ======
 - 2022.6 - 2022.8, Quantitative Research Intern, **Metabit Trading**
 - 2017.7 - 2021.5, Senior Machine Learning Engineer, **Meta**
@@ -63,6 +63,14 @@ Honors
 ## Others
 - 2014 China National Scholarship
 - 2017 Summa Cum Laude
+
+Teaching
+======
+- TA, 10-715 Advanced Introduction to Machine Learning, Fall 2022
+
+Services
+======
+- Online Chair, The Conference on Uncertainty in Artificial Intelligence (UAI) 2022
 
 
 Miscellaneous
