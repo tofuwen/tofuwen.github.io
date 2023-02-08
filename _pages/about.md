@@ -20,12 +20,12 @@ Preprints and Publications
 
 - [Calibration Matters: Tackling Maximization Bias in Large-scale Advertising Recommendation Systems](https://arxiv.org/abs/2205.09809)  
 **Yewen Fan\***, Nian Si\*, Kun Zhang  
-*International Conference on Learning Representations (ICLR), 2023*  
+*International Conference on Learning Representations (ICLR)*, 2023  
 [Code](https://github.com/tofuwen/VAD), [Arxiv](https://arxiv.org/abs/2205.09809), [OpenReview](https://openreview.net/forum?id=wzlWiO_WY4)
 
 - [Scalable Estimation of Nonparametric Markov Networks with Mixed-Type Data](https://openreview.net/forum?id=qBvBycTqVJ)  
 Yujia Zheng, Ignavier Ng, **Yewen Fan**, Kun Zhang  
-*International Conference on Learning Representations (ICLR), 2023*  
+*International Conference on Learning Representations (ICLR)*, 2023  
 [OpenReview](https://openreview.net/forum?id=qBvBycTqVJ)
 
 Education
