@@ -50,22 +50,22 @@ Industry Experiences
 
 Honors
 ======
-## Competitive Programming Contests
+### Competitive Programming Contests
 - Finalist, [2017 ACM-ICPC World Final](https://cs.illinois.edu/news/cs-illinois-team-tests-problem-solving-skills-icpc-2017) (56th / 128)
 - Gold Medal, 2016 ACM-ICPC Mid-Central USA Regionals Chicago site (3rd / 152)
 
-## Math Contests
+### Math Contests
 - 2016, 2017 University of Illinois Undergraduate Math Contest, Rank 1st
 - 2015 William Lowell Putnam Mathematical Competition, Top 10%
 - 2014 Beijing Undergraduate Mathematics Competition, First Prize
 
-## Contract Bridge
+### Contract Bridge
 - [2016 American Contract Bridge League Collegiate Bridge Bowl](https://en.wikipedia.org/wiki/North_American_Collegiate_Bridge_Championship), Champion
 - [2014 Chinese National Youth Bridge Championship, U20 Group Winner](http://www.bblabc.com/template/news/newsView.do?newsId=efc3433f4515f49b01452245d767000b&nowDate=2014-4-2&channel=newMessages)
 - 2012 Chinese National Middle School Bridge Championship, Winner (Senior High School Division)
 - 2009 Chinese National Middle School Bridge Championship, Winner (Junior High School Division)
 
-## Others
+### Others
 - 2014 China National Scholarship
 - 2017 Summa Cum Laude
 
