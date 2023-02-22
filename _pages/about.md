@@ -18,6 +18,11 @@ Preprints and Publications
 ======
 (* denotes equal contribution)
 
+- [Read and Reap the Rewards: Learning to Play Atari with the Help of Instruction Manuals](https://arxiv.org/abs/2302.04449)  
+Yue Wu, **Yewen Fan**, Paul Pu Liang, Amos Azaria, Yuanzhi Li, Tom M. Mitchell  
+*Preprint*  
+[Arxiv](https://arxiv.org/abs/2302.04449)
+
 - [Calibration Matters: Tackling Maximization Bias in Large-scale Advertising Recommendation Systems](https://arxiv.org/abs/2205.09809)  
 **Yewen Fan\***, Nian Si\*, Kun Zhang  
 *International Conference on Learning Representations (ICLR)*, 2023  
