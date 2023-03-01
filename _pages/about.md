@@ -28,7 +28,7 @@ Yue Wu, **Yewen Fan**, Paul Pu Liang, Amos Azaria, Yuanzhi Li, Tom M. Mitchell
 *International Conference on Learning Representations (ICLR)*, 2023  
 [Code](https://github.com/tofuwen/VAD), [Arxiv](https://arxiv.org/abs/2205.09809), [OpenReview](https://openreview.net/forum?id=wzlWiO_WY4)
 
-- [Scalable Estimation of Nonparametric Markov Networks with Mixed-Type Data](https://openreview.net/forum?id=qBvBycTqVJ)  
+- [Generalized Precision Matrix for Scalable Estimation of Nonparametric Markov Networks](https://openreview.net/forum?id=qBvBycTqVJ)  
 Yujia Zheng, Ignavier Ng, **Yewen Fan**, Kun Zhang  
 *International Conference on Learning Representations (ICLR)*, 2023  
 [OpenReview](https://openreview.net/forum?id=qBvBycTqVJ)
