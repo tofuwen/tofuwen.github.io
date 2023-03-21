@@ -22,7 +22,7 @@ Preprints and Publications
 Yue Wu, **Yewen Fan**, Paul Pu Liang, Amos Azaria, Yuanzhi Li, Tom M. Mitchell  
 *Workshop on Reincarnating Reinforcement Learning, ICLR*, 2023 (Oral)  
 [Arxiv](https://arxiv.org/abs/2302.04449), [Blog](https://www.yuewu.ml/projects/2023-RnR/)  
-**Media Coverage:** [New Scientist](https://www.newscientist.com/article/2358953-ai-masters-video-game-6000-times-faster-by-reading-the-instructions/), [Singularity Hub](https://singularityhub.com/2023/03/10/an-ai-learned-to-play-atari-6000-times-faster-by-reading-the-instructions/)
+**Media Coverage:** [New Scientist](https://www.newscientist.com/article/2358953-ai-masters-video-game-6000-times-faster-by-reading-the-instructions/), [Singularity Hub](https://singularityhub.com/2023/03/10/an-ai-learned-to-play-atari-6000-times-faster-by-reading-the-instructions/), [National Post](https://nationalpost.com/news/world/ai-gamers-benefit-from-reading-the-instruction-manual-first)
 
 - [Calibration Matters: Tackling Maximization Bias in Large-scale Advertising Recommendation Systems](https://arxiv.org/abs/2205.09809)  
 **Yewen Fan\***, Nian Si\*, Kun Zhang  
