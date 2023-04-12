@@ -27,7 +27,7 @@ Yue Wu, **Yewen Fan**, Paul Pu Liang, Amos Azaria, Yuanzhi Li, Tom M. Mitchell
 - [Calibration Matters: Tackling Maximization Bias in Large-scale Advertising Recommendation Systems](https://arxiv.org/abs/2205.09809)  
 **Yewen Fan\***, Nian Si\*, Kun Zhang  
 *International Conference on Learning Representations (ICLR)*, 2023  
-[Code](https://github.com/tofuwen/VAD), [Arxiv](https://arxiv.org/abs/2205.09809), [OpenReview](https://openreview.net/forum?id=wzlWiO_WY4), [Video](https://recorder-v3.slideslive.com/#/share?share=80356&s=78f10ea0-d9e3-423e-ab9d-4509167e3bcb), [Slide](https://docs.google.com/presentation/d/1tTG27e0rgwKs29RHT8tuQB8wHST3ou3VcWsIVJ7Q0g4/edit?usp=sharing)
+[Code](https://github.com/tofuwen/VAD), [Arxiv](https://arxiv.org/abs/2205.09809), [OpenReview](https://openreview.net/forum?id=wzlWiO_WY4), [Video](https://recorder-v3.slideslive.com/#/share?share=80356&s=78f10ea0-d9e3-423e-ab9d-4509167e3bcb), [Slide](https://docs.google.com/presentation/d/1tTG27e0rgwKs29RHT8tuQB8wHST3ou3VcWsIVJ7Q0g4/edit?usp=sharing), [Poster](https://drive.google.com/file/d/15dHPoGIlJGVRCv-RbLZLjCbp7JBDqvDu/view?usp=sharing)
 
 - [Generalized Precision Matrix for Scalable Estimation of Nonparametric Markov Networks](https://openreview.net/forum?id=qBvBycTqVJ)  
 Yujia Zheng, Ignavier Ng, **Yewen Fan**, Kun Zhang  
