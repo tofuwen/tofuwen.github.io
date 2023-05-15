@@ -45,6 +45,7 @@ Transferred to University of Illinois at Urbana-Champaign
 
 Industry Experiences
 ======
+- 2023.5 - 2023.8, Investment Intern, **ZhenFund**
 - 2022.6 - 2022.8, Quantitative Research Intern, **Metabit Trading**
 - 2017.7 - 2021.5, Senior Machine Learning Engineer, **Meta**
 - 2016.5 - 2016.8, Software Engineer Intern, **Meta**  
