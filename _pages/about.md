@@ -12,7 +12,13 @@ I am a Ph.D. student in the [Machine Learning Department](https://www.ml.cmu.edu
 
 Research Interests
 ======
-My current research interests are Machine Learning, Out-of-Distribution Generalization, Causality and Recommendation Systems. In particular, I am interested in designing principled algorithms using mathematical insights to solve real-world problems.
+My research endeavors are centered on the conception of mathematically grounded machine learning (ML) algorithms for addressing practical challenges. I have two primary trajectories of interest at present:
+
+1. My tenure at Meta exposed me to numerous compelling real-world issues in the realm of Large Scale Ads Recommendation Systems ML Models. I am currently engaged in the problem definition and in the development of sound, principle-based approaches to overcome these challenges (e.g. [maximization bias problem](https://arxiv.org/abs/2205.09809)).
+
+2. I am also fascinated by the potential of applying ML methodologies to resolve quandaries in the quantitative finance sector.
+
+While I am broadly enthusiastic about all facets of ML, my research chiefly underscores causal representation learning and its application in quantitative finance. Additionally, I maintain an interest in associated subjects such as out-of-distribution generalization.
 
 Preprints and Publications
 ======
@@ -79,6 +85,7 @@ Teaching
 Services
 ======
 - [Online Chair](https://www.auai.org/uai2022/organizing_committee), The Conference on Uncertainty in Artificial Intelligence (UAI) 2022
+- Reviewer: NeurIPS
 
 
 Packages
