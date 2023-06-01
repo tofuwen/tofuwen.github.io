@@ -12,13 +12,13 @@ I am a Ph.D. student in the [Machine Learning Department](https://www.ml.cmu.edu
 
 Research Interests
 ======
-My research endeavors are centered on the conception of mathematically grounded machine learning (ML) algorithms for addressing practical challenges. I have two primary trajectories of interest at present:
+My research goal is to build better machine learning methods using mathematical insights. My current work mainly focuses on two areas:
 
-1. My tenure at Meta exposed me to numerous compelling real-world issues in the realm of Large Scale Ads Recommendation Systems ML Models. I am currently engaged in the problem definition and in the development of sound, principle-based approaches to overcome these challenges (e.g. [maximization bias problem](https://arxiv.org/abs/2205.09809)).
+1. Working at Meta gave me lots of experience with real problems in the world of machine learning, especially when it comes to making recommendations for large scale ad systems. I'm now focusing on identifying these issues and coming up with principled ways to fix them. One example is dealing with the [maximization bias problem](https://arxiv.org/abs/2205.09809).
 
-2. I am also fascinated by the potential of applying ML methodologies to resolve quandaries in the quantitative finance sector.
+2. The other area I'm interested in is how we can use machine learning to solve problems in quantitative finance, which I think holds a lot of promise.
 
-While I am broadly enthusiastic about all facets of ML, my research chiefly underscores causal representation learning and its application in quantitative finance. Additionally, I maintain an interest in associated subjects such as out-of-distribution generalization.
+While I'm generally interested in everything to do with machine learning, my current research is mainly about causal representation learning, and how we can use it in quantitative finance. I'm also interested in related areas, like how we can generalize beyond the data we've seen so far (i.e. out-of-distribution generalization).
 
 Preprints and Publications
 ======
