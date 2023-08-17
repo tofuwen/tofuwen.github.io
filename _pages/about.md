@@ -56,7 +56,7 @@ Industry Experiences
 - 2017.7 - 2021.5, Senior Machine Learning Engineer, **Meta**
 - 2016.5 - 2016.8, Software Engineer Intern, **Meta**  
 
-Honors
+Awards and Honors
 ======
 ### Competitive Programming Contests
 - Finalist, [2017 ACM-ICPC World Final](https://cs.illinois.edu/news/cs-illinois-team-tests-problem-solving-skills-icpc-2017) (56th / 128)
