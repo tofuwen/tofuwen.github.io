@@ -26,6 +26,7 @@ Preprints and Publications
 
 - [Read and Reap the Rewards: Learning to Play Atari with the Help of Instruction Manuals](https://arxiv.org/abs/2302.04449)  
 Yue Wu, **Yewen Fan**, Paul Pu Liang, Amos Azaria, Yuanzhi Li, Tom M. Mitchell  
+*Neural Information Processing Systems (NeurIPS)*, 2023  
 *Workshop on Reincarnating Reinforcement Learning, ICLR*, 2023 (Oral)  
 [Arxiv](https://arxiv.org/abs/2302.04449), [Blog](https://www.yuewu.ml/projects/2023-RnR/)  
 **Media Coverage:** [New Scientist](https://www.newscientist.com/article/2358953-ai-masters-video-game-6000-times-faster-by-reading-the-instructions/), [Singularity Hub](https://singularityhub.com/2023/03/10/an-ai-learned-to-play-atari-6000-times-faster-by-reading-the-instructions/), [National Post](https://nationalpost.com/news/world/ai-gamers-benefit-from-reading-the-instruction-manual-first)
@@ -85,7 +86,7 @@ Teaching
 Services
 ======
 - [Online Chair](https://www.auai.org/uai2022/organizing_committee), The Conference on Uncertainty in Artificial Intelligence (UAI) 2022
-- Reviewer: NeurIPS
+- Reviewer: NeurIPS, ICLR
 
 
 Packages
