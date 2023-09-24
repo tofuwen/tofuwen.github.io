@@ -49,6 +49,7 @@ Ph.D. in Machine Learning
 B.S. in Computer Science and B.S. in Mathematics
 - 2013.9 - 2015.1, **Beijing Jiaotong University**  
 Transferred to University of Illinois at Urbana-Champaign
+- 2007.9 - 2013.5, **The High School Affiliated to Renmin University of China**  
 
 Industry Experiences
 ======
@@ -57,7 +58,7 @@ Industry Experiences
 - 2017.7 - 2021.5, Senior Machine Learning Engineer, **Meta**
 - 2016.5 - 2016.8, Software Engineer Intern, **Meta**  
 
-Awards and Honors
+Honors and Awards
 ======
 ### Competitive Programming Contests
 - Finalist, [2017 ACM-ICPC World Final](https://cs.illinois.edu/news/cs-illinois-team-tests-problem-solving-skills-icpc-2017) (56th / 128)
