@@ -79,9 +79,9 @@ Honors and Awards
 
 ### Contract Bridge
 - [2016 American Contract Bridge League Collegiate Bridge Bowl](https://en.wikipedia.org/wiki/North_American_Collegiate_Bridge_Championship), Champion, $20000 award
-- [2014 Chinese National Youth Bridge Championship, U20 Group Winner](http://www.bblabc.com/template/news/newsView.do?newsId=efc3433f4515f49b01452245d767000b&nowDate=2014-4-2&channel=newMessages)
-- 2012 Chinese National Middle School Bridge Championship, Winner (Senior High School Division)
-- 2009 Chinese National Middle School Bridge Championship, Winner (Junior High School Division)
+- [2014 Chinese National Youth Bridge Championship, U20 Group Champion](http://www.bblabc.com/template/news/newsView.do?newsId=efc3433f4515f49b01452245d767000b&nowDate=2014-4-2&channel=newMessages)
+- 2012 Chinese National Middle School Bridge Championship, Champion (Senior High School Division)
+- 2009 Chinese National Middle School Bridge Championship, Champion (Junior High School Division)
 
 ### Others
 - 2017 Summa Cum Laude
