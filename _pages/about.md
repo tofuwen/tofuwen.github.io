@@ -24,6 +24,10 @@ Preprints and Publications
 ======
 (* denotes equal contribution)
 
+1. [On the Three Demons in Causality in Finance: Time Resolution, Nonstationarity, and Latent Factors](https://arxiv.org/abs/2401.05414)  
+Xinshuai Dong, Haoyue Dai, **Yewen Fan**, Songyao Jin, Sathyamoorthy Rajendran, Kun Zhang  
+[Arxiv](https://arxiv.org/abs/2401.05414)
+
 1. [Read and Reap the Rewards: Learning to Play Atari with the Help of Instruction Manuals](https://arxiv.org/abs/2302.04449)  
 Yue Wu, **Yewen Fan**, Paul Pu Liang, Amos Azaria, Yuanzhi Li, Tom M. Mitchell  
 *Neural Information Processing Systems (NeurIPS)*, 2023  
@@ -31,17 +35,17 @@ Yue Wu, **Yewen Fan**, Paul Pu Liang, Amos Azaria, Yuanzhi Li, Tom M. Mitchell
 [Arxiv](https://arxiv.org/abs/2302.04449), [Blog](https://www.yuewu.ml/projects/2023-RnR/)  
 **Media Coverage:** [New Scientist](https://www.newscientist.com/article/2358953-ai-masters-video-game-6000-times-faster-by-reading-the-instructions/), [Singularity Hub](https://singularityhub.com/2023/03/10/an-ai-learned-to-play-atari-6000-times-faster-by-reading-the-instructions/), [National Post](https://nationalpost.com/news/world/ai-gamers-benefit-from-reading-the-instruction-manual-first)
 
-2. [Temporally Disentangled Representation Learning under Unknown Nonstationarity](https://openreview.net/forum?id=V8GHCGYLkf)  
+1. [Temporally Disentangled Representation Learning under Unknown Nonstationarity](https://openreview.net/forum?id=V8GHCGYLkf)  
 Xiangchen Song, Weiran Yao, **Yewen Fan**, Xinshuai Dong, Guangyi Chen, Juan Carlos Niebles, Eric Xing, Kun Zhang  
 *Neural Information Processing Systems (NeurIPS)*, 2023  
 [OpenReview](https://openreview.net/forum?id=V8GHCGYLkf)
 
-3. [Calibration Matters: Tackling Maximization Bias in Large-scale Advertising Recommendation Systems](https://arxiv.org/abs/2205.09809)  
+1. [Calibration Matters: Tackling Maximization Bias in Large-scale Advertising Recommendation Systems](https://arxiv.org/abs/2205.09809)  
 **Yewen Fan\***, Nian Si\*, Kun Zhang  
 *International Conference on Learning Representations (ICLR)*, 2023  
 [Code](https://github.com/tofuwen/VAD), [Arxiv](https://arxiv.org/abs/2205.09809), [OpenReview](https://openreview.net/forum?id=wzlWiO_WY4), [Video](https://recorder-v3.slideslive.com/#/share?share=80356&s=78f10ea0-d9e3-423e-ab9d-4509167e3bcb), [Slide](https://docs.google.com/presentation/d/1tTG27e0rgwKs29RHT8tuQB8wHST3ou3VcWsIVJ7Q0g4/edit?usp=sharing), [Poster](https://drive.google.com/file/d/15dHPoGIlJGVRCv-RbLZLjCbp7JBDqvDu/view?usp=sharing)
 
-4. [Generalized Precision Matrix for Scalable Estimation of Nonparametric Markov Networks](https://openreview.net/forum?id=qBvBycTqVJ)  
+1. [Generalized Precision Matrix for Scalable Estimation of Nonparametric Markov Networks](https://openreview.net/forum?id=qBvBycTqVJ)  
 Yujia Zheng, Ignavier Ng, **Yewen Fan**, Kun Zhang  
 *International Conference on Learning Representations (ICLR)*, 2023  
 [OpenReview](https://openreview.net/forum?id=qBvBycTqVJ)
@@ -95,7 +99,7 @@ Teaching
 Services
 ======
 - [Online Chair](https://www.auai.org/uai2022/organizing_committee), The Conference on Uncertainty in Artificial Intelligence (UAI) 2022
-- Reviewer: NeurIPS, ICLR, ICML
+- Reviewer: NeurIPS, ICLR, ICML, UAI
 
 
 Packages
@@ -107,4 +111,4 @@ Packages
 
 Miscellaneous
 ======
-I am enthusiastic about all kinds of card games (e.g. contract bridge, 双升, Texas Hold'em). I write about 双升 in Zhihu（知乎）\[[1](https://zhuanlan.zhihu.com/p/384797194), [2](https://www.zhihu.com/question/20721762/answer/333549789)\].
+I am enthusiastic about all kinds of card games (e.g. contract bridge, 双升, Texas Hold'em, 拱猪). I write about 双升 \[[1](https://zhuanlan.zhihu.com/p/384797194), [2](https://www.zhihu.com/question/20721762/answer/333549789)\] and Texas Hold'em \[[3](https://zhuanlan.zhihu.com/p/671906624)\]  in Zhihu（知乎）.
