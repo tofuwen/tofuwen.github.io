@@ -18,7 +18,7 @@ My research goal is to build better machine learning methods using mathematical 
 
 2. I'm also interested in is how we can use machine learning to solve problems in quantitative finance.
 
-While I'm generally interested in everything to do with machine learning, my current research is mainly about applying causal representation learning in quantitative finance. I'm also interested in related areas, like how we can generalize beyond the data we've seen so far (i.e. out-of-distribution generalization).
+While I’m generally interested in all aspects of machine learning, my current research primarily focuses on applying causal representation learning to quantitative finance. I’m also interested in related areas, such as generalizing beyond the data we’ve seen so far, namely out-of-distribution generalization.
 
 Preprints and Publications
 ======
