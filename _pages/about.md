@@ -14,15 +14,19 @@ Research Interests
 ======
 My research goal is to build better machine learning methods using mathematical insights. My current work mainly focuses on two areas:
 
-1. Working at Meta gave me lots of experience with real problems in the world of machine learning, especially when it comes to making recommendations for large scale ad systems. I'm now focusing on identifying these issues and coming up with principled ways to fix them. One example is dealing with the [maximization bias problem](https://arxiv.org/abs/2205.09809).
+1. Working at Meta gave me extensive experience with real problems in the world of machine learning, specifically in optimizing large-scale advertising recommendation systems. I'm now focusing on identifying these problems and coming up with principled ways to fix them. Examples: [maximization bias problem](https://arxiv.org/abs/2205.09809), [model evaluation problem](https://arxiv.org/abs/2401.16692).
 
-2. The other area I'm interested in is how we can use machine learning to solve problems in quantitative finance, which I think holds a lot of promise.
+2. I'm also interested in is how we can use machine learning to solve problems in quantitative finance, which I think holds a lot of promise.
 
-While I'm generally interested in everything to do with machine learning, my current research is mainly about causal representation learning, and how we can use it in quantitative finance. I'm also interested in related areas, like how we can generalize beyond the data we've seen so far (i.e. out-of-distribution generalization).
+While I'm generally interested in everything to do with machine learning, my current research is mainly about applying causal representation learning in quantitative finance. I'm also interested in related areas, like how we can generalize beyond the data we've seen so far (i.e. out-of-distribution generalization).
 
 Preprints and Publications
 ======
 (* denotes equal contribution)
+
+1. [Calibration-then-Calculation: A Variance Reduced Metric Framework in Deep Click-Through Rate Prediction Models](http://arxiv.org/abs/2401.16692)  
+**Yewen Fan**, Nian Si, Xiangchen Song, Kun Zhang  
+[Arxiv](http://arxiv.org/abs/2401.16692)
 
 1. [On the Three Demons in Causality in Finance: Time Resolution, Nonstationarity, and Latent Factors](https://arxiv.org/abs/2401.05414)  
 Xinshuai Dong, Haoyue Dai, **Yewen Fan**, Songyao Jin, Sathyamoorthy Rajendran, Kun Zhang  
@@ -62,6 +66,7 @@ Transferred to University of Illinois at Urbana-Champaign
 
 Industry Experiences
 ======
+- 2024.6 - 2024.8, Quantitative Research Intern, **Jump Trading**
 - 2023.5 - 2023.8, Investment Intern, **ZhenFund**
 - 2022.6 - 2022.8, Quantitative Research Intern, **Metabit Trading**
 - 2017.7 - 2021.5, Senior Machine Learning Engineer, **Meta**
