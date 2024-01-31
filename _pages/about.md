@@ -14,9 +14,9 @@ Research Interests
 ======
 My research goal is to build better machine learning methods using mathematical insights. My current work mainly focuses on two areas:
 
-1. Working at Meta gave me extensive experience with real problems in the world of machine learning, specifically in optimizing large-scale advertising recommendation systems. I'm now focusing on identifying these problems and coming up with principled ways to fix them. Examples: [maximization bias problem](https://arxiv.org/abs/2205.09809), [model evaluation problem](https://arxiv.org/abs/2401.16692).
+1. Working at Meta gave me extensive experience with real problems in the world of machine learning, specifically in optimizing large-scale advertising recommendation systems. I focus on identifying these problems and coming up with principled ways to fix them. Examples: [maximization bias problem](https://arxiv.org/abs/2205.09809), [model evaluation problem](https://arxiv.org/abs/2401.16692).
 
-2. I'm also interested in is how we can use machine learning to solve problems in quantitative finance, which I think holds a lot of promise.
+2. I'm also interested in is how we can use machine learning to solve problems in quantitative finance.
 
 While I'm generally interested in everything to do with machine learning, my current research is mainly about applying causal representation learning in quantitative finance. I'm also interested in related areas, like how we can generalize beyond the data we've seen so far (i.e. out-of-distribution generalization).
 
