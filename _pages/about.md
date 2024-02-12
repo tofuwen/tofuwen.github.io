@@ -104,7 +104,7 @@ Teaching
 Services
 ======
 - [Online Chair](https://www.auai.org/uai2022/organizing_committee), The Conference on Uncertainty in Artificial Intelligence (UAI) 2022
-- Reviewer: NeurIPS, ICLR, ICML, UAI
+- Reviewer: NeurIPS, ICLR, ICML, UAI, KDD
 
 
 Packages
