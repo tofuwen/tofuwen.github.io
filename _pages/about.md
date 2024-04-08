@@ -23,6 +23,8 @@ Preprints and Publications
 ======
 (* denotes equal contribution)
 
+## Preprints
+
 1. [Calibration-then-Calculation: A Variance Reduced Metric Framework in Deep Click-Through Rate Prediction Models](http://arxiv.org/abs/2401.16692)  
 **Yewen Fan**, Nian Si, Xiangchen Song, Kun Zhang  
 [Arxiv](http://arxiv.org/abs/2401.16692)
@@ -30,6 +32,8 @@ Preprints and Publications
 1. [On the Three Demons in Causality in Finance: Time Resolution, Nonstationarity, and Latent Factors](https://arxiv.org/abs/2401.05414)  
 Xinshuai Dong, Haoyue Dai, **Yewen Fan**, Songyao Jin, Sathyamoorthy Rajendran, Kun Zhang  
 [Arxiv](https://arxiv.org/abs/2401.05414)
+
+## Conference Publications
 
 1. [Read and Reap the Rewards: Learning to Play Atari with the Help of Instruction Manuals](https://arxiv.org/abs/2302.04449)  
 Yue Wu, **Yewen Fan**, Paul Pu Liang, Amos Azaria, Yuanzhi Li, Tom M. Mitchell  
