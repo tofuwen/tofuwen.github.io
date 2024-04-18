@@ -25,6 +25,10 @@ Preprints and Publications
 
 ## Preprints
 
+1. [AgentKit: Flow Engineering with Graphs, not Coding](https://arxiv.org/abs/2404.11483)  
+Yue Wu, **Yewen Fan**, So Yeon Min, Shrimai Prabhumoye, Stephen McAleer, Yonatan Bisk, Ruslan Salakhutdinov, Yuanzhi Li, Tom Mitchell    
+[Arxiv](https://arxiv.org/abs/2404.11483)
+
 1. [Calibration-then-Calculation: A Variance Reduced Metric Framework in Deep Click-Through Rate Prediction Models](http://arxiv.org/abs/2401.16692)  
 **Yewen Fan**, Nian Si, Xiangchen Song, Kun Zhang  
 [Arxiv](http://arxiv.org/abs/2401.16692)
