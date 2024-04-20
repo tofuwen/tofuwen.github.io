@@ -27,7 +27,7 @@ Preprints and Publications
 
 1. [AgentKit: Flow Engineering with Graphs, not Coding](https://arxiv.org/abs/2404.11483)  
 Yue Wu, **Yewen Fan**, So Yeon Min, Shrimai Prabhumoye, Stephen McAleer, Yonatan Bisk, Ruslan Salakhutdinov, Yuanzhi Li, Tom Mitchell    
-[Arxiv](https://arxiv.org/abs/2404.11483)
+[Code](https://github.com/Holmeswww/AgentKit), [Arxiv](https://arxiv.org/abs/2404.11483)
 
 1. [Calibration-then-Calculation: A Variance Reduced Metric Framework in Deep Click-Through Rate Prediction Models](http://arxiv.org/abs/2401.16692)  
 **Yewen Fan**, Nian Si, Xiangchen Song, Kun Zhang  
@@ -46,20 +46,20 @@ Yue Wu, **Yewen Fan**, Paul Pu Liang, Amos Azaria, Yuanzhi Li, Tom M. Mitchell
 [Arxiv](https://arxiv.org/abs/2302.04449), [Blog](https://www.yuewu.ml/projects/2023-RnR/)  
 **Media Coverage:** [New Scientist](https://www.newscientist.com/article/2358953-ai-masters-video-game-6000-times-faster-by-reading-the-instructions/), [Singularity Hub](https://singularityhub.com/2023/03/10/an-ai-learned-to-play-atari-6000-times-faster-by-reading-the-instructions/), [National Post](https://nationalpost.com/news/world/ai-gamers-benefit-from-reading-the-instruction-manual-first)
 
-1. [Temporally Disentangled Representation Learning under Unknown Nonstationarity](https://openreview.net/forum?id=V8GHCGYLkf)  
+1. [Temporally Disentangled Representation Learning under Unknown Nonstationarity](https://arxiv.org/abs/2310.18615)  
 Xiangchen Song, Weiran Yao, **Yewen Fan**, Xinshuai Dong, Guangyi Chen, Juan Carlos Niebles, Eric Xing, Kun Zhang  
 *Neural Information Processing Systems (NeurIPS)*, 2023  
-[OpenReview](https://openreview.net/forum?id=V8GHCGYLkf)
+[Arxiv](https://arxiv.org/abs/2310.18615), [OpenReview](https://openreview.net/forum?id=V8GHCGYLkf)
 
 1. [Calibration Matters: Tackling Maximization Bias in Large-scale Advertising Recommendation Systems](https://arxiv.org/abs/2205.09809)  
 **Yewen Fan\***, Nian Si\*, Kun Zhang  
 *International Conference on Learning Representations (ICLR)*, 2023  
 [Code](https://github.com/tofuwen/VAD), [Arxiv](https://arxiv.org/abs/2205.09809), [OpenReview](https://openreview.net/forum?id=wzlWiO_WY4), [Video](https://recorder-v3.slideslive.com/#/share?share=80356&s=78f10ea0-d9e3-423e-ab9d-4509167e3bcb), [Slide](https://docs.google.com/presentation/d/1tTG27e0rgwKs29RHT8tuQB8wHST3ou3VcWsIVJ7Q0g4/edit?usp=sharing), [Poster](https://drive.google.com/file/d/15dHPoGIlJGVRCv-RbLZLjCbp7JBDqvDu/view?usp=sharing)
 
-1. [Generalized Precision Matrix for Scalable Estimation of Nonparametric Markov Networks](https://openreview.net/forum?id=qBvBycTqVJ)  
+1. [Generalized Precision Matrix for Scalable Estimation of Nonparametric Markov Networks](https://arxiv.org/abs/2305.11379)  
 Yujia Zheng, Ignavier Ng, **Yewen Fan**, Kun Zhang  
 *International Conference on Learning Representations (ICLR)*, 2023  
-[OpenReview](https://openreview.net/forum?id=qBvBycTqVJ)
+[Arxiv](https://arxiv.org/abs/2305.11379), [OpenReview](https://openreview.net/forum?id=qBvBycTqVJ)
 
 Education
 ======
