@@ -65,8 +65,12 @@ Education
 ======
 - 2021.9 - Present, **Carnegie Mellon University**  
 Ph.D. in Machine Learning
+- 2021.9 - 2024.5, **Carnegie Mellon University**  
+M.S. in Machine Learning
 - 2015.1 - 2017.5, **University of Illinois at Urbana-Champaign**  
-B.S. in Computer Science and B.S. in Mathematics
+B.S. in Computer Science
+- 2015.1 - 2017.5, **University of Illinois at Urbana-Champaign**  
+B.S. in Mathematics
 - 2013.9 - 2015.1, **Beijing Jiaotong University**  
 Transferred to University of Illinois at Urbana-Champaign
 - 2007.9 - 2013.5, **The High School Affiliated to Renmin University of China**  
