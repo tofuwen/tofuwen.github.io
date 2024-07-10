@@ -25,10 +25,6 @@ Preprints and Publications
 
 ## Preprints
 
-1. [AgentKit: Flow Engineering with Graphs, not Coding](https://arxiv.org/abs/2404.11483)  
-Yue Wu, **Yewen Fan**, So Yeon Min, Shrimai Prabhumoye, Stephen McAleer, Yonatan Bisk, Ruslan Salakhutdinov, Yuanzhi Li, Tom Mitchell    
-[Code](https://github.com/Holmeswww/AgentKit), [Arxiv](https://arxiv.org/abs/2404.11483)
-
 1. [Calibration-then-Calculation: A Variance Reduced Metric Framework in Deep Click-Through Rate Prediction Models](http://arxiv.org/abs/2401.16692)  
 **Yewen Fan**, Nian Si, Xiangchen Song, Kun Zhang  
 [Arxiv](http://arxiv.org/abs/2401.16692)
@@ -38,6 +34,11 @@ Xinshuai Dong, Haoyue Dai, **Yewen Fan**, Songyao Jin, Sathyamoorthy Rajendran, 
 [Arxiv](https://arxiv.org/abs/2401.05414)
 
 ## Conference Publications
+
+1. [AgentKit: Flow Engineering with Graphs, not Coding](https://arxiv.org/abs/2404.11483)  
+Yue Wu, **Yewen Fan**, So Yeon Min, Shrimai Prabhumoye, Stephen McAleer, Yonatan Bisk, Ruslan Salakhutdinov, Yuanzhi Li, Tom Mitchell
+*Conference on Language Modeling (COLM)*, 2024    
+[Code](https://github.com/Holmeswww/AgentKit), [Arxiv](https://arxiv.org/abs/2404.11483)
 
 1. [Read and Reap the Rewards: Learning to Play Atari with the Help of Instruction Manuals](https://arxiv.org/abs/2302.04449)  
 Yue Wu, **Yewen Fan**, Paul Pu Liang, Amos Azaria, Yuanzhi Li, Tom M. Mitchell  
