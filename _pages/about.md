@@ -36,8 +36,8 @@ Xinshuai Dong, Haoyue Dai, **Yewen Fan**, Songyao Jin, Sathyamoorthy Rajendran, 
 ## Conference Publications
 
 1. [AgentKit: Flow Engineering with Graphs, not Coding](https://arxiv.org/abs/2404.11483)  
-Yue Wu, **Yewen Fan**, So Yeon Min, Shrimai Prabhumoye, Stephen McAleer, Yonatan Bisk, Ruslan Salakhutdinov, Yuanzhi Li, Tom Mitchell
-*Conference on Language Modeling (COLM)*, 2024    
+Yue Wu, **Yewen Fan**, So Yeon Min, Shrimai Prabhumoye, Stephen McAleer, Yonatan Bisk, Ruslan Salakhutdinov, Yuanzhi Li, Tom Mitchell  
+*Conference on Language Modeling (COLM)*, 2024  
 [Code](https://github.com/Holmeswww/AgentKit), [Arxiv](https://arxiv.org/abs/2404.11483)
 
 1. [Read and Reap the Rewards: Learning to Play Atari with the Help of Instruction Manuals](https://arxiv.org/abs/2302.04449)  
