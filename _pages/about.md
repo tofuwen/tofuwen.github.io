@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,9 +15,7 @@ My research goal is to build better machine learning methods using mathematical 
 
 1. Working at Meta gave me extensive experience with real problems in the world of machine learning, specifically in optimizing large-scale advertising recommendation systems. I focus on identifying these problems and coming up with principled ways to fix them. Examples: [maximization bias problem](https://arxiv.org/abs/2205.09809), [model evaluation problem](https://arxiv.org/abs/2401.16692).
 
-2. I'm also interested in is how we can use machine learning to solve problems in quantitative finance.
-
-While I’m generally interested in all aspects of machine learning, my current research primarily focuses on applying causal representation learning to quantitative finance. I’m also interested in related areas, such as generalizing beyond the data we’ve seen so far, namely out-of-distribution generalization.
+2. How to use machine learning to solve problems in quantitative finance.
 
 Preprints and Publications
 ======
