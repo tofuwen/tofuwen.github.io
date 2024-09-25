@@ -23,10 +23,6 @@ Preprints and Publications
 
 ## Preprints
 
-1. [Causal Temporal Representation Learning with Nonstationary Sparse Transition](https://arxiv.org/abs/2409.03142)  
-Xiangchen Song, Zijian Li, Guangyi Chen, Yujia Zheng, **Yewen Fan**, Xinshuai Dong, Kun Zhang  
-[Arxiv](https://arxiv.org/abs/2409.03142)
-
 1. [Calibration-then-Calculation: A Variance Reduced Metric Framework in Deep Click-Through Rate Prediction Models](http://arxiv.org/abs/2401.16692)  
 **Yewen Fan**, Nian Si, Xiangchen Song, Kun Zhang  
 [Arxiv](http://arxiv.org/abs/2401.16692)
@@ -36,6 +32,11 @@ Xinshuai Dong, Haoyue Dai, **Yewen Fan**, Songyao Jin, Sathyamoorthy Rajendran, 
 [Arxiv](https://arxiv.org/abs/2401.05414)
 
 ## Conference Publications
+
+1. [Causal Temporal Representation Learning with Nonstationary Sparse Transition](https://arxiv.org/abs/2409.03142)  
+Xiangchen Song, Zijian Li, Guangyi Chen, Yujia Zheng, **Yewen Fan**, Xinshuai Dong, Kun Zhang  
+*Neural Information Processing Systems (NeurIPS)*, 2024  
+[Arxiv](https://arxiv.org/abs/2409.03142)
 
 1. [AgentKit: Structured LLM Reasoning with Dynamic Graphs](https://arxiv.org/abs/2404.11483)  
 Yue Wu, **Yewen Fan**, So Yeon Min, Shrimai Prabhumoye, Stephen McAleer, Yonatan Bisk, Ruslan Salakhutdinov, Yuanzhi Li, Tom Mitchell  
